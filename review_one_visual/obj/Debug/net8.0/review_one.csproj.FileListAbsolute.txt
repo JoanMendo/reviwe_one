@@ -1,0 +1,15 @@
+D:\CICLO2\review_one\review_one\bin\Debug\net8.0\review_one.exe
+D:\CICLO2\review_one\review_one\bin\Debug\net8.0\review_one.deps.json
+D:\CICLO2\review_one\review_one\bin\Debug\net8.0\review_one.runtimeconfig.json
+D:\CICLO2\review_one\review_one\bin\Debug\net8.0\review_one.dll
+D:\CICLO2\review_one\review_one\bin\Debug\net8.0\review_one.pdb
+D:\CICLO2\review_one\review_one\obj\Debug\net8.0\review_one.GeneratedMSBuildEditorConfig.editorconfig
+D:\CICLO2\review_one\review_one\obj\Debug\net8.0\review_one.AssemblyInfoInputs.cache
+D:\CICLO2\review_one\review_one\obj\Debug\net8.0\review_one.AssemblyInfo.cs
+D:\CICLO2\review_one\review_one\obj\Debug\net8.0\review_one.csproj.CoreCompileInputs.cache
+D:\CICLO2\review_one\review_one\obj\Debug\net8.0\review_one.sourcelink.json
+D:\CICLO2\review_one\review_one\obj\Debug\net8.0\review_one.dll
+D:\CICLO2\review_one\review_one\obj\Debug\net8.0\refint\review_one.dll
+D:\CICLO2\review_one\review_one\obj\Debug\net8.0\review_one.pdb
+D:\CICLO2\review_one\review_one\obj\Debug\net8.0\review_one.genruntimeconfig.cache
+D:\CICLO2\review_one\review_one\obj\Debug\net8.0\ref\review_one.dll
